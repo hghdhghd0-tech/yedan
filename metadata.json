@@ -1,0 +1,6 @@
+{
+  "name": "체육 연계 학교폭력 예방 교육",
+  "description": "중학교 1학년 대상 체육수업 연계 학교폭력 예방 교실 수업 지원 및 AI 갈등 시뮬레이션 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
