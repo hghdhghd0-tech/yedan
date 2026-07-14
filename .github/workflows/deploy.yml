@@ -41,7 +41,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # 일반 CRA 리액트 앱은 ./build / Vite로 만든 프로젝트라면 ./dist 로 수정해 주세요!
-          path: ./build 
+          path: ./dist
 
       - name: Deploy to GitHub Pages
         id: deployment
